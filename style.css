@@ -1,0 +1,15 @@
+section{
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+section > h2{
+    width: 100%;
+    text-align: 100%;
+}
+section > div{
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+}
